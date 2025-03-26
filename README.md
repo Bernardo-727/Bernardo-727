@@ -2,6 +2,8 @@
 
 Lorem ipsum
 
+![](estupido.png)
+
 ### Hello world!
 
-![](estupido.png)
+![](Grafico%20animado.gif)
