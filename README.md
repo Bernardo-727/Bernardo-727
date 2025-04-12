@@ -1,6 +1,9 @@
-Estatistica-UFJF 5/9
+
+**Estatistica-UFJF** **5/9**
+
 
 ![](tasty.png)
+
 
 # Sobre mim
 
@@ -17,4 +20,11 @@ no mundo moderno.
 - [Espiral
   climatica](https://github.com/Bernardo-727/Climate-spiral-in-base-R)
 
+
 ![](Fast.gif)
+
+- [Bad apple no R
+  scatterplot](https://github.com/Bernardo-727/Bad-apple-in-R-scatterplot)
+
+
+![](badapple.gif)
