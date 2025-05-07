@@ -8,7 +8,9 @@
   - Cálculo de probabilidades II
   - Análise exploratoria de dados
 
+
 ![](tasty.png)
+
 
 # Sobre mim
 
@@ -32,5 +34,6 @@ provavelmente foi opção minha, eu já criei o costume de praticar assim.
 
 - [Bad apple no R
   scatterplot](https://github.com/Bernardo-727/Bad-apple-in-R-scatterplot)
+
 
 ![](badapple.gif)
