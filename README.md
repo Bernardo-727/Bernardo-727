@@ -32,6 +32,10 @@ provavelmente foi opção minha, eu já criei o costume de praticar assim.
 
 ![](Fast.gif)
 
+- [Animando um caminho](https://github.com/Bernardo-727/Path-animations)
+
+![](Lorenz.gif)
+
 - [Bad apple no R
   scatterplot](https://github.com/Bernardo-727/Bad-apple-in-R-scatterplot)
 
