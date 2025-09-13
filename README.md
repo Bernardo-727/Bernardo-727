@@ -1,13 +1,14 @@
 # Cursos e matérias
 
-- Estatística-UFJF 5/9
+- Estatística-UFJF 6/9
   - Cálculo III
-  - Algoritmos II
-  - Estatística Computacional I
+  - Algoritmos II   
   - Equações Diferenciais II
-  - Cálculo de probabilidades II
-  - Análise exploratoria de dados
-
+  - Estatística Computacional II
+  - Inferência paramétrica I
+  - Processos estocásticos  
+  - Cálculo de probabilidades II  
+  - Análise exploratória de dados
 
 ![](tasty.png)
 
@@ -15,17 +16,14 @@
 # Sobre mim
 
 Oi, meu nome é Bernardo e eu sou um estatístico em formação, gosto um
-pouquinho demais de matemática e estou tentando fazer uns projetinhos
-genéricos e publicar eles aqui no GitHub.
+pouquinho demais de matemática e estou tentando montar um portfólio de projetos genéricos aqui no GitHub.
 
-Muito provavelmente vou publicar eles completamente em inglês, só por
-razões de demonstrar minha proficiência, já que ela é muito importante
+Muito provavelmente vou deixar eles comentados em inglês, só para demonstrar minha proficiência (também para desenvolver um pouquinho mais de conforto com a escrita), já que ela é muito importante
 no mundo moderno.
 
-Alguns podem ser desnecessariamente complicados ou difíceis, mas muito
-provavelmente foi opção minha, eu já criei o costume de praticar assim.
+Quero evitar colocar "deveres de casa" aqui, já que eles geralmente são muito simples ou estão dentro do esperado para alguém que fez as mesmas matérias acima.
 
-# Portfolio
+# Portfólio
 
 - [Espiral
   climatica](https://github.com/Bernardo-727/Climate-spiral-in-base-R)
@@ -41,3 +39,4 @@ provavelmente foi opção minha, eu já criei o costume de praticar assim.
 
 
 ![](badapple.gif)
+
